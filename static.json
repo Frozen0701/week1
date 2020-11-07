@@ -3,6 +3,14 @@
     "/*": {
       "X-Author": "id190042203",
       "Access-Control-Allow-Origin": "*"
+    },
+  "/login/": {
+      "Content-Type": "text/plain; charset=UTF-8",
+      "Access-Control-Allow-Origin": "*"
+    },
+    "/sample/": {
+      "Content-Type": "text/plain; charset=UTF-8",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
