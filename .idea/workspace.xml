@@ -26,8 +26,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dea84099-10b8-4991-b43f-db9a4843dddc" name="Default Changelist" comment="[3]">
-      <change beforePath="$PROJECT_DIR$/static.json" beforeDir="false" afterPath="$PROJECT_DIR$/static.json" afterDir="false" />
+    <list default="true" id="dea84099-10b8-4991-b43f-db9a4843dddc" name="Default Changelist" comment="[4] week_3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_html/fetch/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/fetch/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_html/promise/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/promise/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +38,13 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -59,6 +68,16 @@
       <recent name="D:\Kate\PhpstormProjects\week1\public_html" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/week1/public_html/promise/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -68,7 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604790702775</updated>
       <workItem from="1604790703980" duration="1312000" />
-      <workItem from="1605537075673" duration="303000" />
+      <workItem from="1605537075673" duration="1312000" />
     </task>
     <task id="LOCAL-00001" summary="[2]">
       <created>1604790957366</created>
@@ -91,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604791359692</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="[4] week_3">
+      <created>1605537477488</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605537477488</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,17 +150,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[2]" />
     <MESSAGE value="[3]" />
-    <option name="LAST_COMMIT_MESSAGE" value="[3]" />
+    <MESSAGE value="[4] week_3" />
+    <option name="LAST_COMMIT_MESSAGE" value="[4] week_3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="147" y="65" key="DiffContextDialog" timestamp="1604791367107">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="147" y="65" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1604791367107" />
-    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1604791368374">
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1605537486488">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604791368374" />
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605537486488" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1604791921793">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
